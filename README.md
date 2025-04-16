@@ -28,14 +28,6 @@
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hayor63&show_icons=true&theme=radical" alt="Hayor63 GitHub stats" />
-</p>
-
----
-
 🌱 _“Great things are done by a series of small things brought together.”_ — Vincent van Gogh
 
 ---
