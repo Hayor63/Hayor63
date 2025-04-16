@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**Hayor63/Hayor63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Hayor</h1>
+<h3 align="center">A Passionate Backend Developer from Nigeria 🇳🇬</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **About Me**
+
+- 🔧 Backend Stack: **Node.js**, **Express**, **MongoDB**
+- 🛠️ Currently working on: `Library Management System`
+- 🧠 Exploring: **Testing**, **System Design**, and **Deployment**
+- 💼 Projects: `E-commerce with Escrow`, `SnapNest`, `Note App`, `To-Do List`, and more!
+- 🎯 Goals: Land a backend dev job & freelance side gigs
+- 🕒 I dedicate **2-3 hours daily** to mastering backend development
+
+---
+
+🛠️ **Tech Stack & Tools**  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hayor63&show_icons=true&theme=radical" alt="Hayor63 GitHub stats" />
+</p>
+
+---
+
+🌱 _“Great things are done by a series of small things brought together.”_ — Vincent van Gogh
+
+---
+
